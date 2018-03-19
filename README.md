@@ -60,6 +60,6 @@ The browser will pop out pdf version of poster automatically.
 You can also view our poster [here](https://github.com/yiwen26/WindChaser/blob/master/Docs/Presentation%20and%20posters/Poster.pdf)
 
 ### Group Photo
-
+![alt text](https://github.com/yiwen26/WindChaser/blob/master/Graphs/Group%20photo.jpg)
 
 
