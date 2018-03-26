@@ -19,7 +19,7 @@ Matlab
 
 ## Software Dependencies
 
-* Python 3.5
+* Python 3.5/Python 2.7
 
 * Tensorflow
 
